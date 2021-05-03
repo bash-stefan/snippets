@@ -1,2 +1,2 @@
 # snippets
-Snippets
+Snippets test.
